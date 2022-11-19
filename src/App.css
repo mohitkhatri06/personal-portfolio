@@ -376,6 +376,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 
 }
+
+@media (max-width:1170px) {
+  .date{
+    color:rgb(49, 47, 47);
+  }
+}
 .experience p {
     color: #000000;
     font-size: 18px;

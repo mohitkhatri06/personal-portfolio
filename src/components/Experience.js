@@ -35,6 +35,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2010 - 2011"
+          dateClassName="date"
           iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
           icon={<PersonWorkspace />}
         >
@@ -52,6 +53,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2006 - 2008"
+          dateClassName="date"
           iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
           icon={<PersonWorkspace />}
         >
@@ -66,6 +68,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="April 2013"
+          dateClassName="date"
           iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
           icon={<PersonWorkspace />}
         >
@@ -81,6 +84,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="November 2012"
+          dateClassName="date"
           iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
           icon={<PersonWorkspace />}
         >
